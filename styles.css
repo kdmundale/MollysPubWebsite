@@ -31,7 +31,7 @@ a {
 }
 
 .nav-bar:hover {
-  box-shadow: 0 0 10px 5px #b30404;
+  box-shadow: 0 0 10px 10px #b30404;
 }
 
 ul {
@@ -189,8 +189,8 @@ span {
   text-align: center;
 }
 .main-link-li {
-  background-color: rgba(0, 0, 0, 0.7);
-  box-shadow: 0 0 10px 5px #c28708;
+  background-color: rgba(0, 0, 0, 0.8);
+  box-shadow: 0 0 10px 10px #c28708;
   margin: 10px;
   width: 250px;
 }
@@ -232,15 +232,17 @@ span {
  }
 
  .beer-li {
+   font-variant: small-caps;
+   font-size: 22px;
+   background: linear-gradient(#5a5a5c, #232324);
    text-align: center;
    width: 150px;
    margin: 5px;
    padding: 5px;
-   border: 1px solid white;
  }
 .carryout-link {
-  box-shadow: 0 0 10px 5px #c28708;
-  background-color: rgba(0, 0, 0, 0.7);
+  box-shadow: 0 0 10px 10px #c28708;
+  background-color: rgba(0, 0, 0, 0.8);
   font-size: 20px;
   width: 175px;
   margin: 10px;
@@ -262,8 +264,8 @@ span {
   font-size: 30px;
   width: 75%;
   padding: 20px;
-  background-color: rgba(0, 0, 0, 0.7);
-  box-shadow: 0 0 10px 5px #c28708;
+  background-color: rgba(0, 0, 0, 0.8);
+  box-shadow: 0 0 10px 10px #c28708;
 }
 
 .ig-blurb {
@@ -380,7 +382,7 @@ span {
   padding-top: 5%;
   padding-bottom: 5%;
   background-color: rgba(0, 0, 0, 0.7);
-  box-shadow: 0 0 10px 5px #c28708;
+  box-shadow: 0 0 10px 10px #c28708;
   font-variant: small-caps;
   font-size: 24px;
 }
@@ -390,13 +392,13 @@ span {
 }
 
 .menu-link {
-  background-color: rgba(0, 0, 0, 0.7);
+  background-color: rgba(0, 0, 0, 0.8);
   margin: 30px;
   color: white;
   padding: 10px;
   font-size: 20px;
   font-variant: small-caps;
-  box-shadow: 0 0 10px 5px #c28708;
+  box-shadow: 0 0 10px 10px #c28708;
 
 }
 
@@ -416,12 +418,12 @@ span {
   padding: 10px 0 10px 0;
   width: 75%;
   background-color: rgba(0, 0, 0, 0.7);
-  box-shadow: 0 0 10px 5px #c28708;
+  box-shadow: 0 0 10px 10px #c28708;
 }
 .pub-buttons:hover {
   color: black;
   background-color: #f2ed46;
-  box-shadow: 0 0 10px 5px #b30404;
+  box-shadow: 0 0 10px 10px #b30404;
 }
 
 .pub-list {
