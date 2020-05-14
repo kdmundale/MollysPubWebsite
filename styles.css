@@ -262,6 +262,7 @@ span {
 }
 
 .ig-button {
+  margin: 20px;
   text-align: center;
   color:white;
   font-variant: small-caps;
