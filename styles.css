@@ -59,7 +59,7 @@ li {
 .title-bar {
   background: linear-gradient(#7bd18f, #093d0e);
   position: fixed;
-  top: 5px;
+  top: 0px;
   height: 50px;
   width: 100%;
   z-index: 1;
