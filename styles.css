@@ -355,12 +355,13 @@ span {
 .pub-main-info2 {
   background-color: rgba(0, 0, 0, 0.8);
   width: 90%;
-  margin: 20px 10px 10px 10px;
+  margin: auto;
   display: flex;
-  flex-direction: column;
-  justify-content: center;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: space-around;
   align-items: center;
-  padding:10px;
+  padding:20px;
   text-align: left;
 }
 
@@ -477,9 +478,10 @@ span {
 }
 
 .outside {
+  margin: 20px 5px 20px 5px;
   background: black;
   padding: 5px;
-  width: 75%;
+  width: 45%;
 }
 
 .diningroom {
