@@ -510,7 +510,14 @@ span {
   padding: 10px;
 }
 
-.up-bar, .deck {
+.up-bar {
+  background: black;
+  padding: 5px;
+  margin:10px;
+  width:75%;
+}
+
+.deck {
   background: black;
   padding: 5px;
   margin:10px;
