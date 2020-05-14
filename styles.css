@@ -23,6 +23,7 @@ a {
 }
 
 .nav-bar {
+  font-weight: 800;
   font-size: 18px;
   color: black;
   background: linear-gradient(#fad957, #a87300);
