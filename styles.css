@@ -116,7 +116,7 @@ li {
 
 .home-info-div {
   filter: brightness(1.5);
-  background-color: rgba(0, 0, 0, 0.7);
+  background-color: rgba(0, 0, 0, 0.8);
   padding: 10px;
   text-align: center;
 }
@@ -143,7 +143,7 @@ h1 {
   color: white;
   font-size: calc(30px + (50 - 30) * ((100vw - 300px) / (1600 - 300)));
   filter: brightness(1.5);
-  background-color: rgba(0, 0, 0, 0.7);
+  background-color: rgba(0, 0, 0, 0.8);
   margin-bottom: 20px;
   padding-top: 20px;
   padding-bottom: 10px;
@@ -151,7 +151,7 @@ h1 {
 }
 
 h2{
-  background-color: rgba(0, 0, 0, 0.7);
+  background-color: rgba(0, 0, 0, 0.8);
   width: 100%;
   text-align: center;
   color: white;
@@ -221,7 +221,7 @@ span {
   margin: 20px 5px 20px 5px;
   padding: 60px 10px 20px 10px;
   color: white;
-  background-color: rgba(0, 0, 0, 0.7);
+  background-color: rgba(0, 0, 0, 0.8);
 }
  .beer {
    display: flex;
@@ -270,7 +270,7 @@ span {
 
 .ig-blurb {
   text-align: center;
-  background-color: rgba(0, 0, 0, 0.7);
+  background-color: rgba(0, 0, 0, 0.8);
   padding: 10px;
   margin: 10px;
 }
@@ -301,7 +301,7 @@ span {
 }
 
 .carryout-info {
-  background-color: rgba(0, 0, 0, 0.7);
+  background-color: rgba(0, 0, 0, 0.8);
   width: 90%;
   display: flex;
   flex-direction: column;
@@ -325,14 +325,14 @@ span {
 }
 
 .menu-section {
-  background-color: rgba(0, 0, 0, 0.7);
+  background-color: rgba(0, 0, 0, 0.8);
   width:90%;
   padding: 60px 10px 20px 10px;
 
 }
 
 .pub-main-info {
-  background-color: rgba(0, 0, 0, 0.7);
+  background-color: rgba(0, 0, 0, 0.8);
   width: 90%;
   margin: 20px 10px 10px 10px;
   display: inline-block;
@@ -381,7 +381,7 @@ span {
   padding-right: 20%;
   padding-top: 5%;
   padding-bottom: 5%;
-  background-color: rgba(0, 0, 0, 0.7);
+  background-color: rgba(0, 0, 0, 0.8);
   box-shadow: 0 0 10px 10px #c28708;
   font-variant: small-caps;
   font-size: 24px;
@@ -417,7 +417,7 @@ span {
   margin: 10px;
   padding: 10px 0 10px 0;
   width: 75%;
-  background-color: rgba(0, 0, 0, 0.7);
+  background-color: rgba(0, 0, 0, 0.8);
   box-shadow: 0 0 10px 10px #c28708;
 }
 .pub-buttons:hover {
@@ -474,7 +474,7 @@ span {
 }
 .weekly-specials {
   width: 90%;
-  background-color: rgba(0, 0, 0, 0.7);
+  background-color: rgba(0, 0, 0, 0.8);
   display: flex;
   flex-direction: column;
   padding-bottom: 40px;
