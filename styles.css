@@ -232,6 +232,9 @@ span {
    justify-content: space-around;
  }
 
+.beer-logo {
+  width: 120px;
+}
  .beer-li {
    font-variant: small-caps;
    font-size: 22px;
