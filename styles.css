@@ -352,6 +352,18 @@ span {
   margin: 20px 5px 10px 5px;
 }
 
+.pub-main-info2 {
+  background-color: rgba(0, 0, 0, 0.8);
+  width: 90%;
+  margin: 20px 10px 10px 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding:10px;
+  text-align: left;
+}
+
 
 .pub-aside {
   display: flex;
@@ -450,6 +462,24 @@ span {
   background: black;
   padding: 5px;
   display: none;
+}
+
+.carryout-pic-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.carryout-front {
+  margin:20px;
+  width:45%;
+}
+
+.outside {
+  background: black;
+  padding: 5px;
+  width: 75%;
 }
 
 .diningroom {
