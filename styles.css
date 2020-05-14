@@ -106,7 +106,7 @@ li {
 
 .logo {
   filter: brightness(1.2) drop-shadow(0 0 2rem black) contrast(175%);
-  width: 30%;
+  width: 50%;
 }
 
 .home-info {
