@@ -478,10 +478,10 @@ span {
 }
 
 .outside {
-  margin: 20px 5px 20px 5px;
+  margin: 20px 0px 20px 0px;
   background: black;
   padding: 5px;
-  width: 45%;
+  width: 100%;
 }
 
 .diningroom {
@@ -581,6 +581,10 @@ span {
 
   .ig-widget2 {
     display: none;
+  }
+
+  .outside {
+    width:47%;
   }
 }
 
