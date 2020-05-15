@@ -550,7 +550,7 @@ span {
   background: black;
   padding: 5px;
   margin:10px;
-  width:75%;
+  width:65%;
 }
 
 .deck {
@@ -563,7 +563,12 @@ span {
 .up-bar2 {
   background: black;
   padding: 5px;
-  display: none;
+  width: 65%;
+  margin: 20px 0px 20px 0px;
+}
+
+.events-p {
+  margin: 10px 20px 10px 20px;
 }
 
 
