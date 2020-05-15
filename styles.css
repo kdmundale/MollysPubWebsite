@@ -673,8 +673,17 @@ span {
   flex-wrap: wrap;
 }
 
+.events {
+  width: 95%;
+}
+
 .up-bar {
-  width: 45%;
+  width: 40%;
+}
+
+.up-bar2{
+  display: inline-block;
+  width: 55%;
 }
 
 .up-bar2 {
