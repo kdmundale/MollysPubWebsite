@@ -254,6 +254,10 @@ span {
   padding: 10px 0 10px 0;
   font-variant: small-caps;
 }
+
+.carryout-link:hover {
+  box-shadow: 0 0 10px 10px #b30404;
+}
 .carryout-main {
   display: flex;
   flex-direction: column;
@@ -298,6 +302,7 @@ span {
 .pic-container {
   width:100%;
   background-size: contain;
+  margin-bottom: -10px;
 }
 .pano{
   background: black;
