@@ -22,6 +22,11 @@ a {
   cursor: grab;
 }
 
+.address {
+  color: yellow;
+  font-variant: normal;
+}
+
 .nav-bar {
   font-weight: 800;
   font-size: 18px;
